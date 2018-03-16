@@ -1,0 +1,30 @@
+.hole{
+    background-color: slategray;
+    background-size: 100%;
+    padding: 2%;
+
+}
+label{
+    color: lightgreen;
+}
+h3{
+    color:greenyellow;
+}
+h2{
+    color: yellow;
+}
+p{
+    color: white; 
+}
+h1{
+    text-align: center;
+    color: darkred;
+}
+.a{
+    color: rgb(157, 231, 37);
+    text-decoration: none;
+    text-decoration-style: none;
+}
+.lg{
+    float: right;
+}
